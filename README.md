@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/yhebbat)](https://github.com/yhebbat/badge42)
+[![parmarti 42 stats](https://badge42.herokuapp.com/api/stats/azinbi-)](https://github.com/azinbi-/badge42)
